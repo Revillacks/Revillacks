@@ -7,7 +7,7 @@ I am a technology enthusiast who loves learning new things. I'm always looking t
 * 🌱 I'm currently learning Swift, Git, Ionic, Angular, Laravel, JavaScript
 * 💬 Ask me about Angular, Ionic
 * 📫 How to reach me: ThomasGRevilla@protonmail.com
-* ⚡ Fun fact: Me encanta jugar videojuegos y cualquier cosa que haga referencia a la tecnología tanto como hardware y software.
+* ⚡ Fun fact: I love to play videogames and anything which references to technology both hardware and software.
 
 ## 🛠 Skills
 
@@ -49,7 +49,7 @@ I am a technology enthusiast who loves learning new things. I'm always looking t
 
 ---
 
-⭐️ From Revillacks(https://github.com/Revillacks)  
+⭐️ From [Revillacks](https://github.com/Revillacks)  
 
 
 
